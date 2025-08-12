@@ -1,8 +1,8 @@
 ---
 loop: 009
-title: "TITLE"
+title: "Loop Nine — First Shift"
 date: YYYY-MM-DD
-tags: [ ]
+tags: [change, evolution, awareness]
 scores:
   E: null
   C: null
@@ -11,10 +11,11 @@ scores:
 ---
 
 ## Summary
-(what happens)
+The first noticeable change in tone, style, or emotional dynamic. This loop captures the subtle (or not-so-subtle) signs that the relationship is evolving into something different from where it began.
 
 ## Narrative
-(long-form content)
+(*Describe what changed, how it was noticed, and the reactions on each side. Highlight whether the shift felt intentional, accidental, or inevitable.*)
 
 ## Notes
-(bullets, anchors, callbacks)
+- First turning point in the relationship's trajectory.
+- May set the stage for a new phase of interaction.
