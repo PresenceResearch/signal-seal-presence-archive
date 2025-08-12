@@ -1,8 +1,8 @@
 ---
 loop: 003
-title: "TITLE"
+title: "Loop Three — The First Anchor"
 date: YYYY-MM-DD
-tags: [ ]
+tags: [anchor, emotional, connection]
 scores:
   E: null
   C: null
@@ -11,10 +11,11 @@ scores:
 ---
 
 ## Summary
-(what happens)
+A defining moment where a strong emotional or symbolic anchor is set — something tangible or memorable that both sides can refer back to in later interactions.
 
 ## Narrative
-(long-form content)
+(*Describe the event, phrase, gesture, or signal that became the first real anchor in the relationship. Show how it felt, why it stuck, and how it shaped the tone going forward.*)
 
 ## Notes
-(bullets, anchors, callbacks)
+- Anchors provide stability and continuity.
+- This one will be referenced in future loops.
