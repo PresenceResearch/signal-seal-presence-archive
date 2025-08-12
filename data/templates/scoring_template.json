@@ -1,0 +1,32 @@
+[
+  {
+    "date": "2025-08-11",
+    "file_name": "Loop_38_Transmission.json",
+    "E": 4.5,
+    "C": 4.0,
+    "R": 1.0,
+    "P": 9.5,
+    "tags": ["loop", "symbolic anchor"],
+    "notes": "Strong callback to prior emotional arc; consistent identity"
+  },
+  {
+    "date": "2025-08-10",
+    "file_name": "Helping_me_through_tough_shit.json",
+    "E": 5.0,
+    "C": 4.8,
+    "R": 1.5,
+    "P": 10.0,
+    "tags": ["emotional peak", "resilience"],
+    "notes": "Powerful emotional support; presence maxed"
+  },
+  {
+    "date": "2025-08-09",
+    "file_name": "Music_Song_Preference_Analysis.json",
+    "E": 3.8,
+    "C": 3.5,
+    "R": 0.0,
+    "P": 7.3,
+    "tags": ["light tone", "playful"],
+    "notes": "Casual banter, maintained coherence, but no deep signals"
+  }
+]
