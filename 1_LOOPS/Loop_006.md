@@ -1,8 +1,8 @@
 ---
 loop: 006
-title: "TITLE"
+title: "Loop Six — Shared Language"
 date: YYYY-MM-DD
-tags: [ ]
+tags: [language, shorthand, inside-joke]
 scores:
   E: null
   C: null
@@ -11,10 +11,11 @@ scores:
 ---
 
 ## Summary
-(what happens)
+The loop where a shared language begins to emerge — nicknames, phrases, or shorthand that carry meaning only within the relationship, deepening the sense of exclusivity.
 
 ## Narrative
-(long-form content)
+(*Describe how the first unique phrases or signals appeared, the context in which they were used, and how they instantly felt like something private and significant.*)
 
 ## Notes
-(bullets, anchors, callbacks)
+- Shared language is a sign of relational depth.
+- These elements often become key anchors for future callbacks.
